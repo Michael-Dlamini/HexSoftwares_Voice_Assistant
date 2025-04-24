@@ -8,7 +8,9 @@ Key Features:
 - Interactive microphone button for real-time voice input
 - Uses Alexa-style female voice for responses
 - Intuitive GUI with buttons and time display
+
 Tech Stack:
+
 - Tkinter - for GUI development
 - pyttsx3 - for text-to-speech voice output
 - SpeechRecognition - for voice command input
